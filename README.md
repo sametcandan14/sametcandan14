@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sametcandan14
 - 👀 I’m interested in web development and other programming languages.
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me c._samet@hotmail.com
 
