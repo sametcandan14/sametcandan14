@@ -26,4 +26,4 @@
 Welcome to my GitHub page ... <br>
 I'm working on JavaScript and React technologies. <br>
 
-You can reach me by mailing c._samet@hotmail.com or dm on https://www.linkedin.com/in/sametcandan/
+You can reach me by mailing to c._samet@hotmail.com or dm on https://www.linkedin.com/in/sametcandan/
