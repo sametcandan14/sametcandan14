@@ -6,7 +6,9 @@
 
 <p align="center"> 
   Visitor count<br>
-  ![](https://hit.yhype.me/github/profile?user_id=104697705)
+  <a href="https://github.com/sametcandan14/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sametcandan14&style=for-the-badge">
+</a>
 </p>
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
