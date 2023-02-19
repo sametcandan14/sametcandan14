@@ -6,7 +6,7 @@
 
 <p align="center"> 
   Visitor count<br>
-   ![](https://komarev.com/ghpvc/?username=sametcandan14&color=blue)
+   ![](https://komarev.com/ghpvc/?username=sametcandan14&color=blue&flat)
 </p>
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
